@@ -1,3 +1,3 @@
 function myFunction() {
-    console.log('Esto es de mi funcion');
+    alert('Estas es un alerta desde mi funcion');
 }
